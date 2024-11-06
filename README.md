@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+개인 프로젝트에 사용할 서버 구축
 
 ## Project setup
 
